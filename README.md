@@ -36,6 +36,7 @@ https://documenter.getpostman.com/view/45481527/2sB2x6nYSz
 
 
 ## Report
+![Newman repot in cdm](https://github.com/user-attachments/assets/3eb26fa3-bc76-4cc4-b8bf-63251dac8193)
 ![Html newman S1](https://github.com/user-attachments/assets/a72f230d-f58f-4077-880b-4ae168206f5c)
 ![Html newman S2](https://github.com/user-attachments/assets/7728a2a3-213c-4eb0-8a45-0bcffc265b29)
 
