@@ -31,8 +31,8 @@ Verifying balance, transaction history.
 ###### Caution: You must have the .env file to run this project 
 
 ## Intregration Documentation
-https://drive.google.com/drive/folders/125HaZBXMMvGxC7s2MbOibFoZi3q9F2cd?usp=sharing (Test Case)
 https://documenter.getpostman.com/view/45481527/2sB2x6nYSz
+https://drive.google.com/drive/folders/125HaZBXMMvGxC7s2MbOibFoZi3q9F2cd?usp=drive_link (Testcase and Bug Report)
 
 
 ## Report
